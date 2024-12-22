@@ -1,1 +1,0 @@
-This project uses the MNIST dataset for digit prediction with a neural network. It involves collecting and preprocessing the data, designing the model, performing a train-test split, and training the neural network. Finally, a predictive system is built to evaluate the model's performance in classifying handwritten digits.
