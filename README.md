@@ -66,7 +66,7 @@ A curated collection of deep learning projects demonstrating practical implement
 
 ## 👨‍💻 About the Author
 
-**Lokesh Yuvraj Khadke**  
+**Lokesh k**  
 MSc Data Science, University of Surrey (2024–2025) — Specializing in deep learning, computer vision, and AI applications.
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lokeshkhadke)
